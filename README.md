@@ -6,7 +6,9 @@ This repository contains my Data Structures and Algorithms practice solutions in
 
 - Arrays
 - Searching
-- Sorting Basics
+- Sorting
+- Strings
+- Hashing
 - Problem Solving Patterns
 
 ---
